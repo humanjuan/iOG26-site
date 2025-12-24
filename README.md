@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/humanjuan/iog26-site/public/logo.webp" alt="iOG26 Logo" width="150">
+  <img src="https://github.com/humanjuan/iog26-site/blob/main/public/logo.webp" alt="iOG26 Logo" width="150">
   <h1>iOG26 Call Filter</h1>
 </div>
 
